@@ -49,9 +49,8 @@ The Power BI dashboard includes:
 - Average Shipping Duration by Ship Mode (confirming shipping tiers meet their expected timeframes)
 - A Year slicer for interactive filtering across all visuals
 
-![Dashboard Screenshot](assets/dashboard-screenshot.png)
+![Dashboard Screenshot](assets/Dashboard-Power-BI.png)
 
-*(Add your screenshot and slicer GIF to an `assets/` folder and update the paths above.)*
 
 ## Key Business Insights
 
@@ -62,27 +61,6 @@ The Power BI dashboard includes:
 
 Full write-up: [`docs/business-insights.md`](docs/business-insights.md)
 
-## Repository Structure
-
-```
-BI-Sales-Project/
-├── explore.ipynb              # ETL and profiling notebook
-├── Sample_Superstore.csv.xlsx # raw source data
-├── Fact_Sales.csv
-├── Dim_Date.csv
-├── Dim_Customer.csv
-├── Dim_Product.csv
-├── Dim_Location.csv
-├── Dim_Shipping.csv
-├── dashboard.pbix             # Power BI report file
-├── docs/
-│   ├── data-model.md
-│   ├── etl-process.md
-│   └── business-insights.md
-└── assets/
-    ├── dashboard-screenshot.png
-    └── slicer-demo.gif
-```
 
 ## Skills Demonstrated
 
