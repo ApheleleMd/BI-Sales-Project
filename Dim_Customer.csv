@@ -1,0 +1,794 @@
+Customer ID,Segment
+CG-12520,Consumer
+DV-13045,Corporate
+SO-20335,Consumer
+BH-11710,Consumer
+AA-10480,Consumer
+IM-15070,Consumer
+HP-14815,Home Office
+PK-19075,Consumer
+AG-10270,Consumer
+ZD-21925,Consumer
+KB-16585,Corporate
+SF-20065,Consumer
+EB-13870,Consumer
+EH-13945,Consumer
+TB-21520,Consumer
+MA-17560,Home Office
+GH-14485,Corporate
+SN-20710,Home Office
+LC-16930,Corporate
+RA-19885,Corporate
+ES-14080,Corporate
+ON-18715,Corporate
+PO-18865,Consumer
+LH-16900,Consumer
+DP-13000,Consumer
+JM-15265,Corporate
+TB-21055,Consumer
+KM-16720,Consumer
+PS-18970,Home Office
+BS-11590,Corporate
+KD-16270,Consumer
+HM-14980,Consumer
+JE-15745,Consumer
+KB-16600,Corporate
+SC-20770,Corporate
+DN-13690,Consumer
+JC-16105,Corporate
+CS-12400,Home Office
+PG-18895,Consumer
+GM-14455,Home Office
+JS-15685,Corporate
+KB-16315,Consumer
+RB-19705,Home Office
+PN-18775,Home Office
+KD-16345,Consumer
+ER-13855,Corporate
+RB-19465,Home Office
+GZ-14470,Consumer
+LC-16870,Consumer
+JM-15250,Consumer
+PA-19060,Home Office
+CV-12805,Corporate
+CL-12565,Consumer
+RC-19960,Consumer
+DK-13090,Consumer
+GG-14650,Corporate
+SC-20725,Consumer
+AD-10180,Home Office
+PF-19165,Consumer
+TS-21610,Consumer
+LS-16975,Home Office
+DW-13585,Corporate
+LC-16885,Consumer
+JD-15895,Corporate
+SH-19975,Corporate
+SG-20080,Consumer
+HA-14920,Consumer
+MG-17680,Home Office
+JE-16165,Corporate
+TW-21025,Home Office
+SP-20650,Corporate
+NK-18490,Home Office
+DB-13060,Consumer
+NP-18670,Consumer
+TT-21070,Consumer
+EM-13960,Consumer
+RD-19900,Consumer
+MJ-17740,Consumer
+BM-11140,Consumer
+CS-12130,Consumer
+JB-15400,Corporate
+SJ-20500,Consumer
+JK-15640,Home Office
+DK-13150,Corporate
+RM-19675,Home Office
+SK-19990,Consumer
+FM-14290,Home Office
+AM-10360,Corporate
+MP-17470,Home Office
+MZ-17515,Corporate
+CB-12025,Consumer
+VM-21685,Home Office
+FH-14365,Corporate
+MB-17305,Consumer
+BS-11755,Consumer
+LC-17140,Consumer
+HK-14890,Corporate
+LE-16810,Consumer
+JH-15985,Consumer
+MS-17980,Corporate
+VW-21775,Corporate
+JH-15910,Consumer
+JB-15925,Consumer
+DS-13180,Corporate
+VD-21670,Consumer
+EA-14035,Corporate
+DB-13120,Corporate
+KL-16645,Consumer
+DW-13480,Home Office
+LH-17155,Consumer
+KC-16540,Consumer
+DL-13315,Consumer
+DR-12880,Corporate
+CC-12670,Consumer
+Dl-13600,Corporate
+SB-20290,Corporate
+RC-19825,Consumer
+AH-10210,Consumer
+CB-12535,Corporate
+CA-12310,Corporate
+KH-16690,Corporate
+BB-10990,Corporate
+AG-10495,Corporate
+JO-15280,Consumer
+AH-10195,Corporate
+NZ-18565,Home Office
+KL-16555,Corporate
+AS-10225,Corporate
+CR-12625,Home Office
+SH-20395,Consumer
+BP-11185,Corporate
+TS-21205,Corporate
+AG-10525,Corporate
+SP-20860,Corporate
+NM-18445,Home Office
+FA-14230,Corporate
+GK-14620,Corporate
+DJ-13510,Corporate
+PO-18850,Consumer
+JL-15850,Consumer
+DB-13615,Consumer
+AC-10420,Corporate
+CC-12550,Consumer
+TD-20995,Consumer
+AB-10060,Home Office
+JL-15505,Consumer
+VB-21745,Corporate
+KW-16435,Consumer
+JD-16060,Consumer
+MK-17905,Corporate
+GT-14755,Consumer
+AG-10900,Consumer
+MM-18280,Corporate
+AR-10405,Corporate
+RA-19915,Consumer
+AS-10285,Corporate
+LA-16780,Corporate
+DO-13435,Consumer
+DK-13225,Corporate
+NG-18430,Consumer
+MV-18190,Consumer
+JG-15115,Consumer
+BP-11095,Corporate
+VP-21730,Home Office
+SS-20140,Corporate
+AG-10675,Consumer
+LF-17185,Consumer
+RF-19840,Consumer
+KH-16510,Consumer
+KC-16675,Corporate
+CJ-12010,Consumer
+PB-19150,Consumer
+MP-17965,Corporate
+NF-18385,Consumer
+SD-20485,Home Office
+KH-16630,Corporate
+RB-19795,Home Office
+MK-18160,Consumer
+PO-19180,Home Office
+BB-11545,Corporate
+TB-21595,Consumer
+RB-19360,Consumer
+EB-13705,Corporate
+SC-20095,Consumer
+TN-21040,Home Office
+JS-15940,Home Office
+MH-17785,Corporate
+JP-15520,Consumer
+JE-15475,Consumer
+JG-15805,Corporate
+XP-21865,Consumer
+EM-14065,Consumer
+MT-18070,Home Office
+SA-20830,Consumer
+CW-11905,Home Office
+AJ-10960,Consumer
+SS-20590,Consumer
+RO-19780,Consumer
+MD-17350,Consumer
+MY-17380,Corporate
+CM-12385,Consumer
+LS-17245,Consumer
+BN-11515,Consumer
+DB-13210,Consumer
+MC-17605,Corporate
+BD-11605,Consumer
+PH-18790,Home Office
+MG-18145,Consumer
+KB-16240,Corporate
+JC-15340,Consumer
+RL-19615,Consumer
+AA-10375,Consumer
+EP-13915,Consumer
+DK-12985,Consumer
+BD-11500,Consumer
+LM-17065,Consumer
+AS-10135,Home Office
+BD-11320,Consumer
+GT-14710,Consumer
+AJ-10945,Consumer
+OT-18730,Consumer
+LP-17080,Consumer
+CA-12775,Consumer
+JF-15490,Consumer
+FP-14320,Consumer
+EB-13840,Corporate
+JF-15415,Consumer
+SF-20200,Consumer
+TG-21640,Consumer
+CS-11950,Consumer
+CC-12145,Consumer
+DV-13465,Consumer
+BD-11725,Consumer
+ZC-21910,Consumer
+MS-17830,Consumer
+LR-16915,Consumer
+TP-21130,Consumer
+CK-12205,Consumer
+AS-10240,Consumer
+AR-10510,Consumer
+NB-18655,Corporate
+GD-14590,Corporate
+CK-12595,Consumer
+NG-18355,Corporate
+CA-12265,Consumer
+SF-20965,Corporate
+MO-17800,Home Office
+AT-10735,Consumer
+FM-14380,Consumer
+DJ-13420,Corporate
+ME-17725,Consumer
+JD-16150,Corporate
+JL-15835,Consumer
+SC-20305,Consumer
+CC-12430,Home Office
+AR-10825,Corporate
+SR-20740,Home Office
+CR-12730,Consumer
+EH-14125,Home Office
+SP-20545,Corporate
+TH-21235,Corporate
+RP-19390,Consumer
+RB-19570,Consumer
+CD-11980,Consumer
+DJ-13630,Consumer
+GT-14635,Corporate
+MC-17845,Consumer
+RA-19285,Consumer
+NP-18325,Consumer
+AB-10165,Consumer
+JO-15550,Home Office
+JK-15370,Consumer
+BN-11470,Corporate
+DP-13165,Consumer
+TH-21550,Home Office
+AP-10915,Consumer
+RS-19765,Corporate
+SV-20365,Consumer
+CK-12325,Home Office
+RD-19810,Home Office
+MR-17545,Home Office
+SC-20695,Corporate
+JF-15355,Consumer
+EG-13900,Consumer
+DS-13030,Home Office
+PO-19195,Home Office
+SS-20875,Consumer
+PB-19105,Consumer
+RF-19735,Consumer
+YC-21895,Corporate
+DC-13285,Consumer
+CP-12340,Corporate
+BF-11020,Corporate
+LH-17020,Consumer
+CS-12250,Corporate
+AJ-10795,Corporate
+BV-11245,Corporate
+DL-12865,Consumer
+BM-11785,Consumer
+LT-17110,Consumer
+JK-15730,Consumer
+ES-14020,Consumer
+RH-19495,Consumer
+CD-11920,Consumer
+HW-14935,Corporate
+MC-18130,Corporate
+GM-14440,Consumer
+PJ-19015,Consumer
+BW-11110,Corporate
+TR-21325,Consumer
+PG-18820,Consumer
+JL-15175,Home Office
+BM-11650,Corporate
+EM-14095,Corporate
+AF-10885,Consumer
+GA-14725,Consumer
+CK-12760,Corporate
+DP-13105,Corporate
+BK-11260,Consumer
+SJ-20125,Home Office
+CM-12445,Consumer
+AJ-10780,Corporate
+LS-16945,Corporate
+GP-14740,Corporate
+PK-18910,Home Office
+SM-20005,Consumer
+AG-10765,Home Office
+PM-19135,Home Office
+LL-16840,Consumer
+JS-15595,Corporate
+EL-13735,Home Office
+PC-18745,Corporate
+HL-15040,Consumer
+MS-17365,Consumer
+GB-14530,Corporate
+JR-16210,Corporate
+BE-11335,Home Office
+SC-20050,Home Office
+RW-19630,Corporate
+SE-20110,Consumer
+AH-10075,Corporate
+JM-15535,Consumer
+JJ-15760,Home Office
+RK-19300,Consumer
+CG-12040,Home Office
+RP-19270,Corporate
+KC-16255,Corporate
+KH-16360,Consumer
+GH-14665,Consumer
+SW-20275,Consumer
+JA-15970,Consumer
+DL-12925,Consumer
+LW-16990,Corporate
+TB-21190,Home Office
+BS-11800,Home Office
+RW-19690,Consumer
+TZ-21580,Consumer
+AS-10630,Home Office
+TS-21340,Consumer
+SL-20155,Home Office
+MW-18235,Corporate
+RD-19585,Consumer
+RA-19945,Consumer
+MT-17815,Consumer
+VG-21790,Consumer
+JS-15880,Consumer
+KM-16225,Corporate
+HR-14770,Home Office
+DE-13255,Home Office
+AG-10390,Consumer
+JJ-15445,Consumer
+JH-15430,Consumer
+RD-19660,Home Office
+MO-17500,Consumer
+NS-18640,Corporate
+DG-13300,Corporate
+NF-18595,Home Office
+MG-17650,Home Office
+TS-21160,Corporate
+BD-11620,Consumer
+CM-12160,Consumer
+SN-20560,Home Office
+EH-14005,Home Office
+FO-14305,Consumer
+MS-17710,Consumer
+CC-12100,Home Office
+DW-13540,Consumer
+BT-11395,Corporate
+CY-12745,Corporate
+BT-11485,Home Office
+PS-19045,Home Office
+PV-18985,Home Office
+NM-18520,Consumer
+DL-13495,Corporate
+CS-12355,Consumer
+FH-14275,Corporate
+NC-18340,Consumer
+AA-10315,Consumer
+LT-16765,Consumer
+AP-10720,Home Office
+PM-18940,Consumer
+AT-10435,Home Office
+CA-12055,Home Office
+HR-14830,Corporate
+BT-11530,Home Office
+LH-16750,Consumer
+SW-20755,Corporate
+SP-20620,Corporate
+BF-11170,Home Office
+KT-16480,Consumer
+BG-11695,Corporate
+GM-14680,Consumer
+EJ-14155,Consumer
+NP-18700,Consumer
+MH-18115,Home Office
+JR-15700,Consumer
+SM-20950,Corporate
+CC-12220,Consumer
+PF-19225,Consumer
+DC-12850,Consumer
+BD-11770,Consumer
+GM-14500,Consumer
+TB-21355,Corporate
+JH-16180,Consumer
+EB-13975,Corporate
+QJ-19255,Corporate
+TC-21535,Home Office
+CS-12460,Consumer
+HG-14965,Corporate
+LW-16825,Corporate
+MC-17575,Consumer
+LP-17095,Consumer
+EB-14170,Consumer
+GZ-14545,Corporate
+CP-12085,Corporate
+FG-14260,Home Office
+LD-17005,Consumer
+AB-10255,Home Office
+MN-17935,Consumer
+JR-15670,Consumer
+JF-15190,Consumer
+CM-12115,Consumer
+AS-10045,Corporate
+BP-11290,Consumer
+ND-18370,Consumer
+LB-16735,Consumer
+KT-16465,Consumer
+HM-14860,Corporate
+AB-10600,Corporate
+SZ-20035,Home Office
+MG-17890,Home Office
+JK-16120,Home Office
+PP-18955,Home Office
+YS-21880,Corporate
+KM-16375,Home Office
+AB-10105,Consumer
+HA-14905,Consumer
+BT-11305,Home Office
+SV-20815,Corporate
+RW-19540,Corporate
+DK-12835,Corporate
+ST-20530,Consumer
+MM-17920,Consumer
+PW-19030,Corporate
+SC-20440,Corporate
+TS-21085,Consumer
+MC-17425,Corporate
+ME-17320,Home Office
+NH-18610,Corporate
+MB-18085,Consumer
+KD-16495,Corporate
+KN-16390,Corporate
+NP-18685,Home Office
+CS-12505,Consumer
+MS-17770,Consumer
+CM-12655,Home Office
+Co-12640,Consumer
+TS-21370,Corporate
+JW-15220,Corporate
+JD-15790,Consumer
+PC-19000,Home Office
+AR-10540,Consumer
+AI-10855,Consumer
+TB-21400,Consumer
+PL-18925,Home Office
+GH-14425,Consumer
+MP-18175,Home Office
+JM-15655,Corporate
+CL-11890,Consumer
+DB-13270,Home Office
+IG-15085,Consumer
+BO-11425,Consumer
+AB-10150,Consumer
+JW-16075,Consumer
+EB-13750,Corporate
+SG-20470,Consumer
+CM-12190,Consumer
+AW-10840,Consumer
+MC-18100,Consumer
+TT-21460,Home Office
+VG-21805,Corporate
+MY-18295,Corporate
+RD-19480,Consumer
+DP-13390,Home Office
+ML-17395,Corporate
+JC-15385,Consumer
+JG-15160,Consumer
+MC-17275,Consumer
+NW-18400,Consumer
+TB-21280,Consumer
+BS-11380,Corporate
+HH-15010,Corporate
+CD-12280,Consumer
+TH-21100,Consumer
+MM-18055,Consumer
+NS-18505,Consumer
+RB-19645,Corporate
+SW-20455,Consumer
+EB-13930,Consumer
+PS-18760,Consumer
+HF-14995,Consumer
+HZ-14950,Consumer
+CD-12790,Home Office
+JK-15205,Consumer
+FM-14215,Corporate
+ED-13885,Home Office
+DA-13450,Home Office
+JW-15955,Consumer
+RM-19375,Consumer
+ML-17755,Home Office
+CC-12685,Consumer
+JE-15610,Corporate
+RP-19855,Corporate
+TB-21175,Corporate
+BE-11455,Home Office
+JF-15565,Consumer
+PB-19210,Corporate
+BT-11680,Consumer
+JL-15235,Consumer
+CH-12070,Home Office
+ND-18460,Corporate
+BF-10975,Corporate
+KH-16330,Corporate
+GW-14605,Consumer
+NC-18625,Corporate
+ME-18010,Corporate
+BP-11230,Consumer
+JC-15775,Consumer
+AS-10090,Consumer
+AC-10450,Consumer
+MD-17860,Corporate
+DB-13660,Consumer
+EH-13990,Consumer
+EH-13765,Corporate
+SC-20230,Corporate
+JE-15715,Consumer
+AC-10615,Corporate
+JD-16015,Consumer
+CB-12415,Consumer
+JS-16030,Consumer
+LW-17215,Consumer
+SC-20800,Consumer
+AM-10705,Consumer
+RH-19510,Home Office
+CT-11995,Consumer
+MC-17590,Corporate
+CC-12610,Corporate
+KA-16525,Consumer
+TC-20980,Corporate
+BF-11080,Consumer
+MM-17260,Consumer
+AH-10120,Home Office
+BW-11200,Consumer
+SW-20245,Consumer
+BS-11665,Consumer
+RF-19345,Corporate
+WB-21850,Consumer
+TB-21625,Consumer
+AF-10870,Consumer
+RB-19435,Consumer
+KF-16285,Home Office
+JH-15820,Consumer
+IL-15100,Consumer
+PB-18805,Home Office
+RH-19600,Consumer
+AW-10930,Home Office
+ML-17410,Consumer
+DB-13555,Corporate
+MH-17620,Corporate
+DK-13375,Consumer
+BT-11440,Consumer
+DB-13405,Consumer
+TG-21310,Consumer
+BF-11005,Home Office
+JM-16195,Consumer
+MZ-17335,Home Office
+MW-18220,Consumer
+MV-17485,Consumer
+SM-20320,Home Office
+TP-21415,Consumer
+JK-15625,Consumer
+PJ-18835,Corporate
+RS-19420,Corporate
+SV-20935,Consumer
+BC-11125,Home Office
+EM-13825,Corporate
+BM-11575,Corporate
+KN-16705,Home Office
+KW-16570,Consumer
+SC-20260,Corporate
+CV-12295,Consumer
+SG-20605,Consumer
+TM-21010,Consumer
+EM-13810,Corporate
+ML-18040,Corporate
+CR-12580,Home Office
+AZ-10750,Consumer
+PW-19240,Consumer
+SC-20380,Consumer
+CM-11935,Consumer
+GM-14695,Corporate
+TB-21250,Consumer
+JM-15865,Consumer
+SC-20575,Consumer
+LS-17200,Corporate
+RR-19315,Consumer
+DB-12910,Home Office
+TT-21220,Consumer
+LO-17170,Corporate
+KD-16615,Corporate
+NB-18580,Corporate
+BD-11635,Consumer
+CM-12235,Consumer
+EN-13780,Consumer
+KN-16450,Corporate
+BO-11350,Corporate
+AG-10300,Corporate
+MC-17635,Corporate
+TA-21385,Home Office
+JF-15295,Consumer
+TT-21265,Corporate
+SB-20170,Consumer
+CL-12700,Home Office
+HG-15025,Consumer
+NL-18310,Home Office
+RR-19525,Corporate
+TC-21295,Consumer
+SV-20785,Consumer
+BE-11410,Consumer
+SC-20680,Home Office
+DF-13135,Consumer
+FH-14350,Consumer
+MS-17530,Consumer
+RH-19555,Consumer
+GA-14515,Consumer
+JP-16135,Home Office
+Dp-13240,Home Office
+MO-17950,Consumer
+DL-13330,Consumer
+MH-18025,Consumer
+DR-12940,Home Office
+DM-13015,Consumer
+CA-11965,Corporate
+AC-10660,Consumer
+DM-13345,Corporate
+VF-21715,Home Office
+CC-12370,Consumer
+BF-11275,Corporate
+HG-14845,Consumer
+BP-11155,Consumer
+EM-14140,Home Office
+MA-17995,Home Office
+AY-10555,Corporate
+GB-14575,Consumer
+JB-16045,Home Office
+MG-17875,Home Office
+SR-20425,Home Office
+JB-16000,Consumer
+DM-12955,Corporate
+TC-21475,Home Office
+SW-20350,Home Office
+RE-19450,Consumer
+BF-11215,Home Office
+KB-16405,Home Office
+JG-15310,Corporate
+EC-14050,Consumer
+EB-14110,Consumer
+JP-15460,Corporate
+CS-11845,Corporate
+GH-14410,Home Office
+PT-19090,Consumer
+JL-15130,Consumer
+AH-10030,Corporate
+CC-12475,Consumer
+DW-13195,Corporate
+SJ-20215,Consumer
+BG-11740,Consumer
+LB-16795,Home Office
+CM-11815,Corporate
+EH-14185,Consumer
+TS-21505,Consumer
+PR-18880,Consumer
+LC-17050,Consumer
+CS-12490,Corporate
+DH-13075,Corporate
+JO-15145,Corporate
+AH-10690,Corporate
+HJ-14875,Home Office
+MH-17455,Consumer
+RD-19930,Consumer
+SC-20020,Consumer
+SU-20665,Home Office
+FC-14335,Corporate
+RB-19330,Consumer
+NC-18535,Corporate
+DB-12970,Corporate
+MF-17665,Corporate
+RM-19750,Consumer
+VM-21835,Consumer
+EJ-13720,Consumer
+NC-18415,Consumer
+LS-17230,Consumer
+KE-16420,Corporate
+DH-13675,Home Office
+PF-19120,Consumer
+VT-21700,Home Office
+MG-17695,Consumer
+SP-20920,Consumer
+CS-12175,Corporate
+DK-12895,Consumer
+KM-16660,Consumer
+AA-10645,Consumer
+DD-13570,Consumer
+AH-10465,Consumer
+TP-21565,Corporate
+EK-13795,Home Office
+CR-12820,Home Office
+SG-20890,Corporate
+AH-10585,Consumer
+NF-18475,Home Office
+BS-11365,Corporate
+SH-20635,Corporate
+RD-19720,Consumer
+AG-10330,Consumer
+GR-14560,Corporate
+VS-21820,Consumer
+TM-21490,Consumer
+TS-21430,Corporate
+DB-13360,Home Office
+NR-18550,Consumer
+CS-11860,Consumer
+MF-18250,Corporate
+LW-17125,Consumer
+AR-10345,Corporate
+KS-16300,Corporate
+AB-10015,Consumer
+LR-17035,Corporate
+SS-20410,Consumer
+JM-15580,Consumer
+JK-15325,Corporate
+DM-13525,Corporate
+ML-18265,Consumer
+MH-17290,Home Office
+FC-14245,Home Office
+TH-21115,Corporate
+JK-16090,Consumer
+SB-20185,Consumer
+BG-11035,Consumer
+BW-11065,Consumer
+MG-18205,Corporate
+DO-13645,Consumer
+BP-11050,Corporate
+TS-21655,Consumer
+EM-14200,Home Office
+AO-10810,Corporate
+MH-17440,Corporate
+SS-20515,Home Office
+LD-16855,Corporate
+VP-21760,Corporate
+TC-21145,Corporate
+IM-15055,Consumer
+AR-10570,Consumer
+CM-12715,Corporate
+FW-14395,Corporate
+LC-16960,Home Office
+HE-14800,Corporate
+BD-11560,Home Office
+HD-14785,Home Office
+CJ-11875,Corporate
+RS-19870,Home Office
+SC-20845,Consumer
+RE-19405,Consumer
+SM-20905,Consumer
